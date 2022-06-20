@@ -1,0 +1,3 @@
+#!/Users/Sidheswar/Downloads/Github/QuickDA/environment/bin/python
+from numba.pycc import main
+main()
